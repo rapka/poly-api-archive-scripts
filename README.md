@@ -1,6 +1,6 @@
 # poly-api-archive-scripts
 
-Scripts for archiving Google's Poly API
+Node scripts for archiving Google's Poly API
 
 ## Requirements
 
@@ -10,8 +10,7 @@ Scripts for archiving Google's Poly API
 ## Installation
 
 ```
-npm i
-
+npm install
 ```
 
 ## Usage
