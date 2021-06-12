@@ -1,0 +1,18 @@
+{
+  "name": "poly-archive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "list": "node list.js",
+    "download": "node download.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "googleapis": "^75.0.0",
+    "lodash": "^4.17.21",
+    "mkdirp": "^1.0.4"
+  }
+}
